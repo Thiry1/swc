@@ -1,0 +1,15 @@
+.__local__class > .inner {
+  color: blue;
+}
+.__local__class > .inner {
+  color: red;
+}
+.__local__class > .inner {
+  color: green;
+}
+.__local__class[data-x=true] > .inner {
+  color: yellow;
+}
+.__local__class[data-x=false] > .inner {
+  color: black;
+}
