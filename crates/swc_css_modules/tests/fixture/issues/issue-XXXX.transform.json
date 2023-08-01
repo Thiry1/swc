@@ -1,0 +1,28 @@
+{
+  "child-class": [
+    {
+      "type": "local",
+      "name": "__local__child-class"
+    },
+    {
+      "type": "local",
+      "name": "__local__child-class2"
+    }
+  ],
+  "child-class2": [
+    {
+      "type": "local",
+      "name": "__local__child-class2"
+    }
+  ],
+  "root-class": [
+    {
+      "type": "local",
+      "name": "__local__root-class"
+    },
+    {
+      "type": "local",
+      "name": "__local__child-class"
+    }
+  ]
+}
